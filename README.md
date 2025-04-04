@@ -24,3 +24,4 @@
 6. `Technical framework report` 面向6G的无线通信系统仿真试验总体技术框架报告（中移动）
 7. `scene-generator` 基于Web界面的通信仿真场景生成和编辑组件（中科院深圳先进院）
 
+![](./Readme/technical route.png)
