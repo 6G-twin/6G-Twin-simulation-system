@@ -26,3 +26,9 @@
 7. `scene-generator` 基于Web界面的通信仿真场景生成和编辑组件（中科院深圳先进院）
 
 ![](https://github.com/6G-twin/6G-Twin-simulation-system/blob/main/plot.png)
+
+## 仓库使用方式
+
+**克隆本仓库** `git clone --recursive https://github.com/6G-twin/6G-Twin-simulation-system.git`
+
+**更新子模块** `git submodule update --init --recursive`
