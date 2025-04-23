@@ -1,0 +1,21 @@
+[submodule "models/ICSC-prototype-system"]
+	path = models/ICSC-prototype-system
+	url = https://github.com/6G-twin/ICSC-prototype-system.git
+[submodule "models/tsn-simulator"]
+	path = models/tsn-simulator
+	url = https://github.com/6G-twin/tsn-simulator.git
+[submodule "models/scene-generator"]
+	path = models/scene-generator
+	url = https://github.com/6G-twin/scene-generator.git
+[submodule "models/network-optimizer"]
+	path = models/network-optimizer
+	url = https://github.com/6G-twin/network-optimizer.git
+[submodule "models/digital-twin-platform"]
+	path = models/digital-twin-platform
+	url = https://github.com/6G-twin/digital-twin-platform.git
+[submodule "models/channel-simulator"]
+	path = models/channel-simulator
+	url = https://github.com/6G-twin/channel-simulator.git
+[submodule "models/Technical-framework-report"]
+	path = models/Technical-framework-report
+	url = https://github.com/6G-twin/Technical-framework-report.git
